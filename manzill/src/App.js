@@ -5,10 +5,12 @@ import Text from './comp/Textbox';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Foot from './comp/Footer';
+import Nav from './comp/Navbar';
 
 function App() {
   return (
     <div className="App">
+      <Nav/>
       <Pic1/>
       <Text/>
       <Pic2/>
