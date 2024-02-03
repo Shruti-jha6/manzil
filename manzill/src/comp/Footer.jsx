@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h2>Company Name</h2>
-            <p>Address, City, Country</p>
+            <h2>Manzil</h2>
+            <p>Kashmere Gate ISBT, Delhi -11006</p>
           </div>
           <div className="footer-section">
             <h2>Quick Links</h2>
@@ -21,10 +21,13 @@ const Footer = () => {
           </div>
           <div className="footer-section">
             <h2>Contact Us</h2>
-            <p>Email: info@example.com</p>
-            <p>Phone: +123 456 7890</p>
+            <p>Email: manzill-top1.com</p>
+            <p>Phone: +91 6578 212 377</p>
           </div>
         </div>
+      </div>
+      <div className="copyright">
+        <p>&copy; 2024 Company Name. All rights reserved.</p>
       </div>
     </footer>
   );
