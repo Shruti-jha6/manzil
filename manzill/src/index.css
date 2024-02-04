@@ -37,3 +37,57 @@ code {
   text-align: center;
 
 }
+.card-img{
+  height: 10rem;
+  width: 10rem;
+ 
+}
+.card{
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  
+  background-color: #376797;
+  height: 15rem;
+  width: 100%;
+  width: 11rem;
+
+  
+}
+.card-info{
+  background-color: #1E2952;
+  height: 5rem;
+  width: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -1.2rem;
+}
+.cards{
+  
+  background-color: #36457c;
+  height: 15rem;
+  width: 10rem;
+}
+.see-but{
+  width: 100%;
+  border-radius: 0.5rem;
+  height: 90%;
+  margin-right: 0.5rem;
+}
+.card-title{
+  font-size: large;
+  padding: 0.5rem;
+  color: yellow;
+}
+.card-place{
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-hold{
+  display: flex;
+  align-items: center;
+}

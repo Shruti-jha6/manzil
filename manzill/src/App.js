@@ -6,6 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Foot from './comp/Footer';
 import Nav from './comp/Navbar';
+import Login from './comp/Login';
+import Signup from './comp/Signup';
+import Explore from './comp/Explore';
+
 
 function App() {
   return (
@@ -16,6 +20,9 @@ function App() {
       <Pic2/>
       <Pic3/>
       <Foot/>
+      <Login/>
+      <Signup/>
+      <Explore/>
     </div>
   );
 }

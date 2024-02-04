@@ -3,7 +3,7 @@ import React from 'react'
 const Textbox = () => {
   return (
     <div className='textbox'>
-        <h1 className='head'> Introduction </h1>
+        <h1 className='head'> About </h1>
        
         <div className='intropara'>
 
