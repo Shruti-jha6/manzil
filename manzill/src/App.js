@@ -9,6 +9,8 @@ import Nav from './comp/Navbar';
 import Login from './comp/Login';
 import Signup from './comp/Signup';
 import Explore from './comp/Explore';
+import Legal from './comp/Legal';
+import Grow from './comp/Grow';
 
 
 function App() {
@@ -21,8 +23,14 @@ function App() {
       <Pic3/>
       <Foot/>
       <Login/>
+      <hr/>
       <Signup/>
+      <hr/>
       <Explore/>
+      <hr/>
+      <Legal/>
+      <hr/>
+      <Grow/>
     </div>
   );
 }
